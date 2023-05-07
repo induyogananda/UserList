@@ -1,0 +1,10 @@
+.small-container{
+    display:flex;
+    justify-content: center;
+    background:blue;
+}
+.card{
+    width:270px;
+    height:400px;
+    margin:10px
+}
